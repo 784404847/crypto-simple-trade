@@ -1,19 +1,5 @@
 {
-  "exchanges": {
-    "binance": {
-      "binance_test-spot": {
-        "apiKey": "BRiRZd71SS4rMZjMBuVIw0GG2b1bHcUfpptaqczdLpL0WLn1gA6eobNakyQbdh4J",
-        "secret": "1t6VEDJQFQYvHESnCvXM4iuLcDOqvr9SnSo8DM9mFuopHkTOINwFRIz9fgkZGYyh"
-      }
-    },
-    "okx": {
-      "okx-qq-1": {
-        "apiKey": "6304ba6b-cea1-4674-86ec-1c3d9d082284",
-        "secret": "4A9FCC846647E5D30FE416AEBC19E990",
-        "password": "DemoTrade1!"
-      }
-    }
-  },
+  "exchanges": {},
   "sandbox_mode": true,
   "proxies": {
     "http": "http://127.0.0.1:7890",
