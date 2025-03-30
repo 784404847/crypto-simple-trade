@@ -1,0 +1,4 @@
+ccxt>=2.0.0
+pandas>=1.0.0
+asyncio
+windows-curses; platform_system == "Windows" 
